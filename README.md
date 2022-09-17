@@ -21,3 +21,8 @@ src\
     |--store\           # Contains the store
  |--utils\              # Contains the utilities
 ```
+
+## Links
+
+Github link for template - https://github.com/subrat0796/react-template
+Github link for cli - https://github.com/subrat0796/react-template-cli
