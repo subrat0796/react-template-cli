@@ -23,9 +23,9 @@ async function runCmd(command) {
 if (process.argv.length < 3) {
 	console.log("Please specify the target project directory.");
 	console.log("For example:");
-	console.log("    npx create-react-template my-app");
+	console.log("    npx create-react-temp my-app");
 	console.log("    OR");
-	console.log("    npm init react-template my-app");
+	console.log("    npm init react-temp my-app");
 	process.exit(1);
 }
 
