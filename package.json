@@ -1,6 +1,6 @@
 {
 	"name": "create-react-temp",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Create react template for intermediate projects with one go",
 	"main": "index.js",
 	"scripts": {
